@@ -6,5 +6,5 @@ authors:
   - family-names: "Paradkar"
     given-names: "Achintya"
 affiliation: "Chalmers University of Technology"
-repository-code: "https://github.com/YOUR_GITHUB_USERNAME/dc-squid-potential-sweep-and-viewer"
+repository-code: "https://github.com/achintyaparadkar/SQUID-potential-plots"
 license: "MIT"
