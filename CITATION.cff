@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+title: "dc-SQUID potential sweep and viewer"
+message: "If you use this software, please cite the repository release or the associated PhD thesis."
+type: software
+authors:
+  - family-names: "Paradkar"
+    given-names: "Achintya"
+affiliation: "Chalmers University of Technology"
+repository-code: "https://github.com/YOUR_GITHUB_USERNAME/dc-squid-potential-sweep-and-viewer"
+license: "MIT"
